@@ -22,13 +22,13 @@ hr {
 	border: 0px
 }
 .btn-primary{
-	background-color: white;
+	background-color: green
 }
 .button-custom{
 	padding: 1rem 2rem;
 }
 .btn-primary:hover{
-	background-color: orange;
+	background-color: green;
 	border-width: 2px;
 }
 .buffer{
